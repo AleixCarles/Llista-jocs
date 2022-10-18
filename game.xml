@@ -1,0 +1,168 @@
+<data>
+    <game id="1">
+        <name>World of WarCraft: Wrath of the Lich King</name>
+        <year>2008</year>
+        <systems>Windows</systems>
+        <developer>Blizzard Entertainment Inc.</developer>
+        <genre>Role-playing (RPG)</genre>
+        <description>A ra&#237;z de los acontecimientos de la Tercera Guerra, el Pr&#237;ncipe Arthas destroz&#243; el
+            Trono Helado y se convirti&#243; en uno con el Rey Ex&#225;nime. En lo profundo de la fortaleza de Corona de
+            Hielo, luego se sent&#243; en su trono en meditaci&#243;n silenciosa y la gente comenz&#243; a olvidar
+            lentamente la amenaza que acechaba en el tercer continente de Azeroth llamado Northend. Pero los tiempos de
+            tranquilidad terminaron, ya que el Rey Ex&#225;nime ha vuelto a despertar y env&#237;a sus ej&#233;rcitos de
+            la Plaga a todos los rincones de Azeroth. Al mismo tiempo, el Aspecto del Drag&#243;n azul llamado Malygos
+            tambi&#233;n emergi&#243; de su larga reclusi&#243;n y lanz&#243; una guerra despiadada contra los
+            practicantes mortales de la magia arcana. Ahora, tanto la Horda como la Alianza acumulan sus ej&#233;rcitos
+            y se mueven hacia Northend con la esperanza de mantener la amenaza bajo control y tal vez incluso destruirla
+            finalmente.
+        </description>
+        <imatgeURL>
+            https://www.mobygames.com/images/covers/l/129939-world-of-warcraft-wrath-of-the-lich-king-macintosh-front-cover.jpg
+        </imatgeURL>
+    </game>
+    <game id="2">
+        <name>Minecraft</name>
+        <year>2011</year>
+        <systems>Browser, Linux, Macintosh, Windows</systems>
+        <developer>Mojang Specifications</developer>
+        <genre>Action</genre>
+        <description>Como en Minecraft Classic, el jugador cae en un mundo generado aleatoriamente hecho de cubos. A
+            diferencia de la versi&#243;n cl&#225;sica en la que el jugador puede agregar y quitar bloques a voluntad,
+            en esta versi&#243;n todos los bloques que el jugador quiere colocar primero deben "extraerse" en otro
+            lugar. Algunos materiales requieren equipo especial para ser extra&#237;dos. La piedra requiere un hacha de
+            madera para ser extra&#237;da; el oro requiere un hacha de hierro y la obsidiana requiere un hacha de
+            diamante. El jugador tambi&#233;n puede crear palas y hachas normales para extraer arena, tierra y madera m&#225;s
+            r&#225;pido. La miner&#237;a ya no es instant&#225;nea sino que requiere que el jugador golpee el bloque un
+            par de veces, las herramientas reducen el tiempo.
+        </description>
+        <imatgeURL>https://www.mobygames.com/images/covers/l/200518-minecraft-browser-front-cover.png</imatgeURL>
+    </game>
+    <game id="3">
+        <name>Pok&#233;mon Pearl Version</name>
+        <year>2007</year>
+        <systems>Nintendo DS</systems>
+        <developer>Creatures, Inc., Game Freak, Inc.</developer>
+        <genre>Role-playing (RPG)</genre>
+        <description>Junto con Pok&#233;mon Diamante, este juego inicia la cuarta generaci&#243;n de la serie Pok&#233;mon.
+            Ambientado en una nueva regi&#243;n, Sinnoh, incluye 107 nuevos Pok&#233;mon, lo que eleva el total a 493.
+            Tambi&#233;n es el primer juego en l&#237;nea de la serie, que presenta batallas Wi-Fi e intercambios. Los
+            jugadores pueden recolectar insignias, desafiar a Elite Four y convertirse en el maestro Pok&#233;mon
+            definitivo.
+        </description>
+        <imatgeURL>https://www.mobygames.com/images/covers/l/85450-pokemon-pearl-version-nintendo-ds-front-cover.jpg
+        </imatgeURL>
+    </game>
+    <game id="4">
+        <name>Kingdom Hearts</name>
+        <year>2002</year>
+        <systems>PlayStation 2</systems>
+        <developer>Square Co., Ltd.</developer>
+        <genre>Role-playing (RPG)</genre>
+        <description>El mundo de Sora se hace a&#241;icos cuando una violenta tormenta golpea su casa y se ve separado
+            de sus dos amigos m&#225;s cercanos. La tormenta dispersa a los tres a mundos desconocidos. Al mismo tiempo,
+            hay confusi&#243;n en el Castillo de Disney. El rey Mickey no est&#225; y el mago de la corte Donald y el
+            capit&#225;n Goofy salen a buscarlo. En sus viajes se encuentran con Sora, en su propia b&#250;squeda de sus
+            amigos perdidos. A los tres se les habla de criaturas ominosas llamadas Heartless, que no tienen coraz&#243;n
+            y derivan de una dimensi&#243;n desconocida y son los responsables de la devastadora tormenta.
+        </description>
+        <imatgeURL>https://www.mobygames.com/images/covers/l/14873-kingdom-hearts-playstation-2-front-cover.jpg
+        </imatgeURL>
+    </game>
+    <game id="5">
+        <name>Tekken 5</name>
+        <year>2004</year>
+        <systems>Arcade, PlayStation 2</systems>
+        <developer>Namco Limited</developer>
+        <genre>Action</genre>
+        <description>La misteriosa Corporaci&#243;n G lanza un ataque a gran escala que involucra helic&#243;pteros
+            militares y cyborgs de combate en el edificio en el que se encontraban Heihachi y Kazuya Mishima durante la
+            escena final del juego anterior. Kazuya traiciona a su padre y escapa, mientras que Heihachi presumiblemente
+            muere. Sin embargo, Mishima Zaibatsu contin&#250;a operando como de costumbre bajo un liderazgo no revelado.
+            Cuando se anuncia el quinto torneo King of the Iron Fist, tanto Kazuya como su hijo Jin entran en un intento
+            de resolver el misterio.
+        </description>
+        <imatgeURL>https://www.mobygames.com/images/covers/l/47695-tekken-5-playstation-2-front-cover.jpg</imatgeURL>
+    </game>
+    <game id="6">
+        <name>Stardew Valley</name>
+        <year>2016</year>
+        <systems>Android, iPad, iPhone, Linux, Macintosh, Nintendo Switch, PlayStation 4, PS Vita, Windows, Xbox One
+        </systems>
+        <developer>ConcernedApe LLC</developer>
+        <genre>Role-playing (RPG), Simulation</genre>
+        <description>Stardew Valley es un juego de rol inspirado en los juegos de Harvest Moon en el que juegas como el
+            heredero de una antigua granja en un peque&#241;o pueblo llamado Stardew Valley. Dejando atr&#225;s la
+            agotadora vida de la gran ciudad, te embarcas en una b&#250;squeda para restaurar el tramo descuidado a trav&#233;s
+            de la dedicaci&#243;n y el trabajo duro.
+        </description>
+        <imatgeURL>https://www.mobygames.com/images/covers/l/372092-stardew-valley-playstation-4-front-cover.jpg
+        </imatgeURL>
+    </game>
+    <game id="7">
+        <name>WarioWare: Smooth Moves</name>
+        <year>2006</year>
+        <systems>Wii, Wii U</systems>
+        <developer>Intelligent Systems Co., Ltd., Nintendo SPD</developer>
+        <genre>Action, Racing / Driving, Sports</genre>
+        <description>WarioWare Smooth Moves es un juego de fiesta que consta de m&#225;s de 200 microjuegos (minijuegos
+            muy cortos que duran solo cinco segundos cada uno), usando el control remoto de Wii para garabatear,
+            balancear, girar, ponerse en cuclillas, servir, agitar y muchos m&#225;s. En el camino, se desbloquean m&#225;s
+            microjuegos.
+        </description>
+        <imatgeURL>https://www.mobygames.com/images/covers/l/81142-warioware-smooth-moves-wii-front-cover.jpg
+        </imatgeURL>
+    </game>
+    <game id="8">
+        <name>Animal Crossing: New Horizons</name>
+        <year>2020</year>
+        <systems>Nintendo Switch</systems>
+        <developer>Nintendo EPD</developer>
+        <genre>Simulation</genre>
+        <description>Si el ajetreo y el bullicio de la vida moderna lo deprimen, Tom Nook tiene una nueva empresa
+            comercial bajo la manga que sabe que adorar&#225;: &#161;el paquete Escapada a una isla desierta de Nook
+            Inc.! Claro, te has cruzado con personajes coloridos cerca y lejos. La pas&#233; muy bien como uno de los
+            habitantes de la ciudad. &#161;Puede que incluso hayas pasado p&#225;gina y te hayas dedicado al servicio p&#250;blico!
+            Pero en el fondo, &#191;no hay una parte de ti que anhela&#8230; la libertad? Entonces, tal vez un largo
+            paseo por la playa de una isla desierta, donde aguarda una rica riqueza de naturaleza virgen, &#161;es justo
+            lo que recet&#243; el m&#233;dico! La creatividad pac&#237;fica y el encanto te esperan mientras te
+            arremangas y haces de tu nueva vida lo que quieras que sea. Re&#250;na recursos y elabore todo, desde
+            comodidades para criaturas hasta herramientas &#250;tiles. Abrace su pulgar verde mientras interact&#250;a
+            con flores y &#225;rboles de nuevas maneras. Establezca una granja donde ya no se apliquen las reglas de lo
+            que sucede dentro y fuera. &#161;Hazte amigo de los reci&#233;n llegados, disfruta de las estaciones, salta
+            con p&#233;rtiga a trav&#233;s de r&#237;os mientras exploras y m&#225;s! Esta nueva incorporaci&#243;n a la
+            serie Animal Crossing se lanza el 20 de marzo de 2020, exclusivamente para el sistema Nintendo Switch.
+            Caracter&#237;sticas
+        </description>
+        <imatgeURL>https://www.mobygames.com/images/covers/l/630842-animal-crossing-new-horizons-nintendo-switch-front-cover.png</imatgeURL>
+    </game>
+    <game id="9">
+        <name>Tom Clancy's Rainbow Six: Siege</name>
+        <year>2015</year>
+        <systems>PlayStation 4, Windows, Xbox One</systems>
+        <developer>Ubisoft Entertainment Inc.</developer>
+        <genre>Action</genre>
+        <description>Tom Clancy's Rainbow Six: Siege es un juego de disparos en primera persona multijugador t&#225;ctico
+            competitivo desarrollado por Ubisoft. Una de las caracter&#237;sticas principales del juego es la destrucci&#243;n
+            en tiempo real y la capacidad de los jugadores de atravesar paredes, techos y pisos para obtener una ventaja
+            sobre sus enemigos. El juego tambi&#233;n se centra en unidades antiterroristas (CTU) y 20 operadores
+            diferentes y sus habilidades &#250;nicas en combate, lo que refuerza la idea del juego estrat&#233;gico.
+        </description>
+        <imatgeURL>
+            https://www.mobygames.com/images/covers/l/316927-tom-clancy-s-rainbow-six-siege-playstation-4-front-cover.jpg
+        </imatgeURL>
+    </game>
+    <game id="10">
+        <name>Tiny Tina's Wonderlands</name>
+        <year>2022</year>
+        <systems>PlayStation 4, Windows, Xbox One, Xbox Series</systems>
+        <developer>Gearbox Software LLC, Gearbox Studio Qu&#233;bec Inc.</developer>
+        <genre>Role-playing (RPG)</genre>
+        <description>&#161;Emb&#225;rcate en una aventura &#233;pica llena de fantas&#237;a, maravillas y armamento de
+            gran potencia! Las balas, la magia y las espadas chocan en este ca&#243;tico mundo de fantas&#237;a que
+            cobra vida gracias a la impredecible Tiny Tina.
+        </description>
+        <imatgeURL>
+            https://www.mobygames.com/images/covers/l/803341-tiny-tina-s-wonderlands-playstation-4-front-cover.jpg
+        </imatgeURL>
+    </game>
+</data>

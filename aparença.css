@@ -1,0 +1,43 @@
+
+body {
+  background-color: #EDDBC0;
+
+
+}
+h1 {
+  height: 40px;
+    width: 100%;
+   background-color: #DD5353;
+
+align=center;
+color: #EDDBC0;
+}
+table{
+    width: 20%
+}
+td{
+text-align: left;
+}
+
+.imagen{
+margin: 0;
+padding: 0;
+width: 100%;
+
+}
+.textdescripcio{
+
+padding:10px
+
+}
+.segonabanda{
+    width: 50%;
+    padding-left: 10%}
+footer{
+  background-color: #B73E3E;
+  color: #EDDBC0;
+   position: absolute;
+  width: 100%;
+  height: 40px;
+
+}
