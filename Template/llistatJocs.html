@@ -1,0 +1,36 @@
+{% extends "laMevaWeb.html" %}
+{% block content %}
+{% for joc in jocs %}
+<header>
+    <h1 align="center">{{joc.get ('name')}}</h1>
+    </header>
+    <div>
+        <table align="center">
+            <tbody>
+    <tr>
+        <td>
+            <img class="imagen" src= "{{joc.get ('imatgeURL') }}">
+        </td>
+        <td class="segonabanda">
+            <div>
+                <div style="font-size: 100%; font-weight: bold;">Desenvolupat per:</div>
+                <div>{{ joc.get('developer') }}</div>
+                <div style="font-size: 100%; font-weight: bold;">Any:</div>
+                <div>{{joc.get ('year') }}</div>
+                <div style="font-size: 100%; font-weight: bold;">Plataformes:</div>
+                <div>{{joc.get ('sistema') }}</div>
+                <div style="font-size: 100%; font-weight: bold;">Genere:</div>
+                <div>{{joc.get ('genre') }}</div>
+            </div>
+        </td>
+    </tr>
+    </tbody>
+        </table>
+    </div>
+    <div>
+        <div class="descripcio" align="center" style="font-size: 100%; font-weight: bold;">Descripció:</div>
+        <div class="textdescripcio" align="center">{{joc.get ('description') }}</div>
+
+    </div>
+{% endfor %}
+{% endblock %}
